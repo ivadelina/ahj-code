@@ -10,6 +10,8 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "semi": ["error", "always"],
+    "linebreak-style": ["error", "windows"]
   }
 }
